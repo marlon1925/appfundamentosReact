@@ -1,4 +1,3 @@
-
 import { Link, Outlet, useLocation } from 'react-router-dom'
 
 const Dashboard = () => {

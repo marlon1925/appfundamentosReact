@@ -6,9 +6,9 @@ import { CasaProvider } from './components/context/CasaProvider'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-     <CasaProvider>
-    <App />
+    <CasaProvider>
+      <App />
     </CasaProvider>
   </React.StrictMode>,
-    document.getElementById('root')
+  document.getElementById('root')
 )

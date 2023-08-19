@@ -1,9 +1,9 @@
-import Intro from '../components/effect/intro'
+import Intro from '../components/state/Intro'
 
-const FundamentoUseEffect = () => {
+const FundamentoUseState = () => {
     return (
         <Intro />
     )
 }
 
-export default FundamentoUseEffect
+export default FundamentoUseState
