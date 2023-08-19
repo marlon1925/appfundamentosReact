@@ -1,4 +1,4 @@
-import Intro from '../components/effect/Intro'
+import Intro from '../components/effect/intro'
 
 const FundamentoUseEffect = () => {
     return (

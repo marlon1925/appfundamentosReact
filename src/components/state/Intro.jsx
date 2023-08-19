@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Intro() {
   return (
-    <div>Intro State</div>
+    <div>Intro US</div>
   )
 }

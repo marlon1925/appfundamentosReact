@@ -1,4 +1,4 @@
-import Intro from '../components/state/Intro'
+import Intro from '../components/state/intro'
 
 const FundamentoUseState = () => {
     return (
